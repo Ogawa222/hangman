@@ -32,4 +32,4 @@ def hangman():
         print('You lose! The words was {}'.format(word))
 
 hangman()
-#1
+#123
